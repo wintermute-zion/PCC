@@ -1,8 +1,11 @@
 # PCC (Physical Control Center)
 
-PCC is a macropad with six keys, a rotary encoder, and a tiny 1" x 0.91" OLED screen. I designed it to control things like my PC's volume and media playback (hence the "Physical Control Center" name) but you can build a new firmware to map the keys to do anything, really.
+PCC is a macropad with six keys and a rotary encoder. I designed it to control things like my PC's volume and media playback (hence the "Physical Control Center" name) but you can build a new firmware to map the keys to do anything, really.
 
 Designed for Hack Club's Hackpad program. (view it [here](https://hackpad.hackclub.com))
+
+![Screenshot of KiCad schematic of PCC's wiring connections](assets/schematic.png)
+![Screenshot of PCC's PCB design in KiCad](assets/pcb.png)
 
 ## Disclaimer!
 
@@ -11,6 +14,9 @@ I haven't recieved my PCB or kit from Hack Club as of yet, so both the case and 
 ## Case
 
 The case is in two parts, held together with screws driven through holes in the top case's corners. All screws in the case screw into heat-set inserts, so to allow easier disassembly, if that's something you'll need.
+
+![Screenshot of 3D model of bottom half of PCC's case in Shapr3D](assets/case_bottom.png)
+![Screenshot of 3D model of top hald of PCC's case in Shapr3D](assets/case_top.png)
 
 ## Firmware
 
@@ -36,13 +42,6 @@ KMK firmware is used for this macropad, though I'm sure you could make a QMK ver
 | B   | D0               | GPIO26   |
 | S1  | D2               | GPIO28   |
 
-### OLED Display
-
-| Pin | Digital GPIO Pin | GPIO Pin |
-| --- | ---------------- | -------- |
-| SDA | D4               | GPIO6    |
-| SCL | D5               | GPIO7    |
-
 ## Key Map
 
 ### Key Matrix
@@ -66,7 +65,6 @@ A list of everything you'd need to build this.
 
 - (1) Seeed Studio XIAO RP2040 MCU
 - (6) Cherry MX keyboard switches
-- (1) 1" x 0.91" OLED display
 - (1) EC11 rotary encoder
 - (6) 1N4148 diodes
 - (6) M3 x 5mm x 4mm heatset inserts
