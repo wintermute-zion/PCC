@@ -11,6 +11,8 @@ Designed for Hack Club's Hackpad program. (view it [here](https://hackpad.hackcl
 
 I haven't recieved my PCB or kit from Hack Club as of yet, so both the case and firmware code are not guaranteed to work with this macropad on the first try (the case may not fit, the firmware may reference a key that doesn't exist, I don't know). Obviously once I recieve everthing I will fix any problems that should arise, but until then, continue cautiously.
 
+With the current firmware code, the display does nothing. This will change, but I'm focusing on other things at the moment currently.
+
 ## Case
 
 The case is in two parts, held together with screws driven through holes in the top case's corners. All screws in the case screw into heat-set inserts, so to allow easier disassembly, if that's something you'll need.
