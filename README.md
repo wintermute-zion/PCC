@@ -4,7 +4,7 @@ PCC is a macropad with six keys, a rotary encoder, and a tiny 1" x 0.91" OLED sc
 
 Designed for Hack Club's Hackpad program. (view it [here](https://hackpad.hackclub.com))
 
-![Screenshot of KiCad schematic of PCC's wiring connections](assets/pcb.png)
+![Screenshot of KiCad schematic of PCC's wiring connections](assets/schematic.png)
 ![Screenshot of PCC's PCB design in KiCad](assets/pcb.png)
 
 ## Disclaimer!
