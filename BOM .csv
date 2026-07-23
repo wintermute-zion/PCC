@@ -1,0 +1,11 @@
+Item,Quantity,Custom Part Link
+Seeed Studio XIAO RP2040 MCU,1,
+Cherry MX keyboard switches,6,
+EC11 rotary encoder,1,
+1N4148 diodes,6,
+M3 x 5mm x 4mm heatset inserts,6,
+M3 x 16mm screws,6,
+Keycaps,6,
+Custom PCB,1,https://github.com/wintermute-zion/PCC/blob/main/production/gerbers.zip
+Case bottom,1,https://github.com/wintermute-zion/PCC/blob/main/production/case_bottom.stl
+Case top,1,https://github.com/wintermute-zion/PCC/blob/main/production/case_top.stl
