@@ -61,7 +61,7 @@ KMK firmware is used for this macropad, though I'm sure you could make a QMK ver
 
 ## BOM
 
-A list of everything you'd need to build this. You can view this as a .csv file [here.]()
+A list of everything you'd need to build this. You can view this as a .csv file [here.](https://github.com/wintermute-zion/PCC/blob/main/BOM%20.csv)
 
 - (1) Seeed Studio XIAO RP2040 MCU
 - (6) Cherry MX keyboard switches
