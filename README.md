@@ -20,7 +20,7 @@ The case is in two parts, held together with screws driven through holes in the 
 
 ## Firmware
 
-KMK firmware is used for this macropad, though I'm sure you could make a QMK version if you so please. I chose KMK since it uses Python though. View the firmware code [here.]()
+KMK firmware is used for this macropad, though I'm sure you could make a QMK version if you so please. I chose KMK since it uses Python though. View the firmware code [here.](https://github.com/wintermute-zion/PCC/blob/main/production/main.py)
 
 ## Pinouts
 
