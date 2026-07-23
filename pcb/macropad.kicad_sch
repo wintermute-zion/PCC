@@ -3,11 +3,11 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "fc257b62-caac-432a-85c2-41cec0052712")
-	(paper "A4")
+	(paper "USLetter")
 	(title_block
-		(title "Physical Control Center")
+		(title "PCC (Physical Control Center)")
 		(date "2026-06-10")
-		(rev "1.0")
+		(rev "1.4")
 	)
 	(lib_symbols
 		(symbol "Device:RotaryEncoder_Switch"
