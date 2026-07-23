@@ -4,6 +4,9 @@ PCC is a macropad with six keys, a rotary encoder, and a tiny 1" x 0.91" OLED sc
 
 Designed for Hack Club's Hackpad program. (view it [here](https://hackpad.hackclub.com))
 
+![Screenshot of KiCad schematic of PCC's wiring connections](assets/pcb.png)
+![Screenshot of PCC's PCB design in KiCad](assets/pcb.png)
+
 ## Disclaimer!
 
 I haven't recieved my PCB or kit from Hack Club as of yet, so both the case and firmware code are not guaranteed to work with this macropad on the first try (the case may not fit, the firmware may reference a key that doesn't exist, I don't know). Obviously once I recieve everthing I will fix any problems that should arise, but until then, continue cautiously.
@@ -11,6 +14,9 @@ I haven't recieved my PCB or kit from Hack Club as of yet, so both the case and 
 ## Case
 
 The case is in two parts, held together with screws driven through holes in the top case's corners. All screws in the case screw into heat-set inserts, so to allow easier disassembly, if that's something you'll need.
+
+![Screenshot of 3D model of bottom half of PCC's case in Shapr3D](assets/case_bottom.png)
+![Screenshot of 3D model of top hald of PCC's case in Shapr3D](assets/case_top.png)
 
 ## Firmware
 
